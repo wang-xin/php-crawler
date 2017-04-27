@@ -1,0 +1,12 @@
+{
+    "name": "king/php-crawler",
+    "authors": [
+        {
+            "name": "wangxin-king",
+            "email": "wangxin.king.314@gmail.com"
+        }
+    ],
+    "require": {
+        "kiddyu/beanbun": "^1.0"
+    }
+}
